@@ -1,0 +1,7 @@
+C:\Users\dell\source\repos\SumContinuous\SumContinuous\bin\Debug\SumContinuous.exe.config
+C:\Users\dell\source\repos\SumContinuous\SumContinuous\bin\Debug\SumContinuous.exe
+C:\Users\dell\source\repos\SumContinuous\SumContinuous\bin\Debug\SumContinuous.pdb
+C:\Users\dell\source\repos\SumContinuous\SumContinuous\obj\Debug\SumContinuous.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\SumContinuous\SumContinuous\obj\Debug\SumContinuous.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\SumContinuous\SumContinuous\obj\Debug\SumContinuous.exe
+C:\Users\dell\source\repos\SumContinuous\SumContinuous\obj\Debug\SumContinuous.pdb
